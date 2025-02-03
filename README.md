@@ -1,4 +1,3 @@
-# aula-1 https://chat.whatsapp.com/I85Xpl1YexVDKPMYjgDyfU
 <NomeDaTag atributo="valor"> 
 
 <NomeDaTag atributo="valor"> 
