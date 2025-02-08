@@ -7,8 +7,13 @@
 </head>
 <body>
     <h1>Diego Amaro Ferreira</h1>
-
-    <h3>Qualidades</h3><hr>
+    <ul>
+        <li>20anos,solteiro</li>
+        <li>(71) 9 9646-4135</li>
+        <li>amarodiego@gmail.com</li>
+        <li>Centro,Pojuca,Bahia,Brasil</li>
+       </ul>
+       <h3>Qualidades</h3><hr>
     <ul>
         <li>dedicado</li>
         <li>proativo</li>
@@ -23,9 +28,9 @@
        </ul>
        <h3>objetivos</h3><hr>
        <ul>
-        <li>habilidades basicas relacionadas ao uso de sistemas</li>
-        <li>habilidade basicas de programação</li>
-        <li>aprender a trabalhar em equipe</li>
+        <li>aprimorar habilidades de progamação</li>
+        <li>aprimorar habilidades de tranalho em equipe </li>
+        <li>se adaptar ao workflow</li>
        </ul>
 
     
