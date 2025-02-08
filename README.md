@@ -15,17 +15,17 @@
         <li>vontade de a prender</li>
        </ul>
     
-    <h3>Formaçõa academica</h3>
+    <h3>Formaçõa academica</h3><hr>
     <ul>
         <li>ciencia da computação</li>
         <li>UNIFACS</li>
         <li>5* semestre - 12/2026</li>
        </ul>
-       <h3>objetivos</h3>
+       <h3>objetivos</h3><hr>
        <ul>
-        <li>apender</li>
-        <li></li>
-        <li></li>
+        <li>habilidades basicas relacionadas ao uso de sistemas</li>
+        <li>habilidade basicas de programação</li>
+        <li>aprender a trabalhar em equipe</li>
        </ul>
 
     
