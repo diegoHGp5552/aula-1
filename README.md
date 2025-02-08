@@ -18,21 +18,23 @@
         <li>dedicado</li>
         <li>proativo</li>
         <li>vontade de a prender</li>
-       </ul>
-    
+    </ul>    
     <h3>Formaçõa academica</h3><hr>
     <ul>
         <li>ciencia da computação</li>
         <li>UNIFACS</li>
         <li>5* semestre - 12/2026</li>
-       </ul>
+    </ul>
        <h3>objetivos</h3><hr>
-       <ul>
+    <ul>
         <li>aprimorar habilidades de progamação</li>
         <li>aprimorar habilidades de tranalho em equipe </li>
         <li>se adaptar ao workflow</li>
-       </ul>
+    </ul>
 
+    
+</body>
+</html>
     
 </body>
 </html>
