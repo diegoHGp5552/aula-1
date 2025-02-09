@@ -13,7 +13,9 @@
         <li>amarodiego@gmail.com</li>
         <li>Centro,Pojuca,Bahia,Brasil</li>
        </ul>
-       <h3>Qualidades</h3><hr>
+</body>
+</html>  
+ <h3>Qualidades</h3><hr>
     <ul>
         <li>dedicado</li>
         <li>proativo</li>
@@ -32,9 +34,6 @@
         <li>se adaptar ao workflow</li>
     </ul>
 
-    
-</body>
-</html>
     
 </body>
 </html>
